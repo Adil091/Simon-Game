@@ -122,7 +122,7 @@ Once the game is loaded:
 
 ![Game Start](https://github.com/Adil091/Simon-Game/blob/master/images/game%20start.png))
 ![Level In Progress](https://github.com/Adil091/Simon-Game/blob/master/images/level%20in%20progress.png))
-![Game Over]((https://github.com/Adil091/Simon-Game/blob/master/images/game%20over.png))
+![Game Over](https://github.com/Adil091/Simon-Game/blob/master/images/game%20over.png))
 
 ---
 
