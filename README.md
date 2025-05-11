@@ -120,9 +120,9 @@ Once the game is loaded:
 
 > Replace the image links with actual screenshots from your game.
 
-![Game Start]([./assets/screenshot-start.png](https://github.com/Adil091/Simon-Game/blob/master/images/game%20start.png))
-![Level In Progress]([./assets/screenshot-level.png](https://github.com/Adil091/Simon-Game/blob/master/images/level%20in%20progress.png))
-![Game Over]([./assets/screenshot-gameover.png](https://github.com/Adil091/Simon-Game/blob/master/images/game%20over.png))
+![Game Start](https://github.com/Adil091/Simon-Game/blob/master/images/game%20start.png))
+![Level In Progress](https://github.com/Adil091/Simon-Game/blob/master/images/level%20in%20progress.png))
+![Game Over]((https://github.com/Adil091/Simon-Game/blob/master/images/game%20over.png))
 
 ---
 
