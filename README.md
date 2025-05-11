@@ -106,15 +106,6 @@ Once the game is loaded:
 
 ---
 
-## Demo
-
-> [Live Demo](https://your-username.github.io/simon-game)
-
-### GIF of Working Demo
-
-![Demo](https://link-to-your-demo.gif)
-
----
 
 ## UI Screenshots
 
