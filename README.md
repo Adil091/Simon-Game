@@ -9,9 +9,6 @@ A fun, memory-based game that challenges players to repeat increasingly complex 
 ---
 
 ## Table of Contents
-
-- [Simon-Game](#simon-game)
-  - [Table of Contents](#table-of-contents)
   - [Problem Statement](#problem-statement)
   - [Approach](#approach)
   - [Features](#features)
