@@ -19,8 +19,6 @@ A fun, memory-based game that challenges players to repeat increasingly complex 
   - [Setup and Installation](#setup-and-installation)
   - [Commands](#commands)
   - [Usage](#usage)
-  - [Demo](#demo)
-    - [GIF of Working Demo](#gif-of-working-demo)
   - [UI Screenshots](#ui-screenshots)
   - [Contributing](#contributing)
   - [License](#license)
